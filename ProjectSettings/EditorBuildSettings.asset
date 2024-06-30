@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 0c07ffb7a17e6a94a8e31cefeafa4a15
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 1.unity
+    guid: 0bc8b4d83d1f9f749ad3b2d05050e435
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 2.unity
+    guid: 8c9d1ae6637bad747973a87f1abc5afd
+  - enabled: 1
+    path: Assets/Scenes/Fly Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Fly Under.unity
+    guid: e7049469e02518548bd10402d04092d9
+  - enabled: 1
+    path: Assets/Scenes/Narrow Passage.unity
+    guid: df5de973b2139f340b541cd72f9f7d8d
+  - enabled: 1
+    path: Assets/Scenes/Narrow Passage 1.unity
+    guid: e1a612404dca1914ab345940c82f0ea4
+  - enabled: 1
+    path: Assets/Scenes/Controll.unity
+    guid: e71fb9a1c45d67245a7fdebfa3400061
+  m_configObjects: {}
